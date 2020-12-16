@@ -1,9 +1,8 @@
 # Pandas-challange
-Pandas homework that corresponds to the 4th unit of the _Data Analisis bootcamp course_, on this homework we were assign to analize a sets of data **HeroesOfPymoli_purchase_data.csv** using python scripting thru Jupyter Notebook with the Pandas library. 
+Pandas homework corresponds to the 4th unit of the _Data Analisis bootcamp course_, on this homework we were assign to analize a set of data **HeroesOfPymoli_purchase_data.csv** using python scripting thru Jupyter Notebook with the Pandas library. 
 
-Heroes of Pymoli is an online game with great success in the gaming universe 
+Heroes of Pymoli is an online game with great success in the gaming universe, from the file provided it was required to get the next analysis
 
-Get the next data analisis. 
 - Player Count
 - Purchasing Analysis (Total)
 - Gender Demographics
@@ -14,10 +13,17 @@ Get the next data analisis.
 - Most Popular Items
 - Most Profitable Items
 
+## Analysis conclusions
+
+From above analisis I got to the next conclusions...
+
+1.- 84% of the people that bought Heroes of Pymoli is male
+2.- Around 45% of players of HoP is between 20-24 years old
+3.-"Final Critic" is the most item purchased 
 
 ## What I learnt
 
-On this homework had the chance to interact with the buitl-in _csv_ library and get to know how to use the _**reader**_ method, I tried to keep my solution as simple as posible using conditionals, loops, lists and dictionaries. I think my solution is simple, easy to understand and the best is that it works :raised_hands:.   
+Besides IDEs, web notebooks provide and friendly and powerfull tool to develop scripting, on this challange we have the oportunity to interact with **Jupyter Notebook**, its live programming makes easer to find bugs on the scripting and the output interface give us rapid feedback of what we are doing and if we are on the right path.
 
-Besides practice with python scripting more, on this homework I challenged myself to get a full understanding of how to commit changes of my project on github thru gitbash and use the _markdown sintaxis_ to edit the readme on git hub :blush: and as it can be seen how to insert emojis :laughing:.  
+Pandas library helps data analisis trhu **Data Frame** building, once the data is in a data frame reshaping, data pivoting and data manipulation to get to the answers is really easy, the amount of methods and attributes that can be apply to Data Frames is huge, find different methods to get to the same point was another thing that I learnt in this challange.
 
